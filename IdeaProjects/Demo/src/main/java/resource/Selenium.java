@@ -54,4 +54,6 @@ public class Selenium extends Steps {
         }
     }
 
-    public static void (){}
+    public static void (){
+        System.out.println("Nghia");
+    }
