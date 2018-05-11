@@ -53,3 +53,5 @@ public class Selenium extends Steps {
         org.junit.Assert.assertEquals(titlel,driver.getTitle());
         }
     }
+
+    public static void (){}
