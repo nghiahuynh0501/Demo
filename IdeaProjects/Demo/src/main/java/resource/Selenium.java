@@ -54,6 +54,6 @@ public class Selenium extends Steps {
     }
 
     public void Demo(){
-        System.out.println("Nghia");
+        System.out.println("Đổi tên nha");
     }
 }
