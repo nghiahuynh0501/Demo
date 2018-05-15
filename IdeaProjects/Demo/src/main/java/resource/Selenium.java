@@ -49,11 +49,11 @@ public class Selenium extends Steps {
         System.out.println("ABC");
     }
     @Then("$title display")
-    public void Action(String titlel){
-        org.junit.Assert.assertEquals(titlel,driver.getTitle());
-        }
+    public void Action(String titlel) {
+        org.junit.Assert.assertEquals(titlel, driver.getTitle());
     }
 
-    public static void (){
+    public void Demo(){
         System.out.println("Nghia");
     }
+}
